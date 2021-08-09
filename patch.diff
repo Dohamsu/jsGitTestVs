@@ -1,0 +1,34 @@
+From 863eb6e6170238f37dc546dcb5f4402c0df7cb6a Mon Sep 17 00:00:00 2001
+From: dohamsu <rlawlsdnjswk@gmail.com>
+Date: Mon, 9 Aug 2021 14:10:55 +0900
+Subject: [PATCH] =?UTF-8?q?=EC=86=8C=EC=8A=A4=ED=8A=B8=EB=A6=AC=20?=
+ =?UTF-8?q?=ED=85=8C=EC=8A=A4=ED=8A=B8?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ src/MAN/html/main.html | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/src/MAN/html/main.html b/src/MAN/html/main.html
+index 3df9161..4709ad9 100644
+--- a/src/MAN/html/main.html
++++ b/src/MAN/html/main.html
+@@ -15,7 +15,11 @@
+     
+     <h1> 에러 테스트 </h1>
+ 
+-    깃테스트
+   
++    <div>
++        <span>깃테스트</span>
++
++    </div>
++
+ 
+ </body>
+\ No newline at end of file
+-- 
+2.23.0.windows.1
+
