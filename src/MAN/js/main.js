@@ -6,7 +6,7 @@
  */
 
  new Promise(function(resolve, reject){
-  
+   
     var input = Math.floor(Math.random()*10);
 
       if(input > 4){ 
